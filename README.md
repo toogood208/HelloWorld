@@ -8,4 +8,4 @@ is clicked
 
 [sample of the app](https://drive.google.com/file/d/1Ie3enIjTPokNWRduKs20zfwNguXJwoHl/view?usp=drivesdk)
 
-![another sample](https:github//2
+![another sample](https:github//eed02b7)
